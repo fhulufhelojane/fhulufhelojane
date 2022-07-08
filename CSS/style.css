@@ -1,0 +1,34 @@
+
+h1{
+  color: red;
+  font-size: 40PX
+  color: purple;
+  font-size: 3em;
+  border: 3px dotted;
+  padding: 150
+}
+
+.my class{
+  background-color: pink;
+}
+
+  img{
+
+    boarder:10px dotted pink
+    width:200px;
+    height:200px;
+    p{color:blue}
+  }
+  body{
+    background-color: yellow;
+
+  }
+
+  li:hover{
+    height: 120px;
+    width: 0.3em
+  }
+
+  li{
+    transition:o,3s ease;
+  }
